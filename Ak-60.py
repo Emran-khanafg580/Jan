@@ -1,4 +1,4 @@
-#!/bin/usr/python
+rahmani#!/bin/usr/python
 
 """
 	Hack WHATSHXPro
